@@ -5,7 +5,7 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!<br/>
   ul {
      list-style-type: '\2714\00A0\00a0';
     list-style-position: inside;
-    columns: 3;
+    columns: 2;
   }
 </style>
 <ul>
