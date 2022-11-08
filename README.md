@@ -22,7 +22,7 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!<br/>
 <li><a href="https://marcelocesar-1964.github.io/html-css-2/exercicios/ex016c-cores-2/index.html"> Executar o exercício 016c</a><br/></li>
 <li><a href="https://marcelocesar-1964.github.io/html-css-2/exercicios/ex017-fontes/index.html"> Executar o exercício 017</a><br/></li>
 <li><a href="https://marcelocesar-1964.github.io/html-css-2/exercicios/ex017b-fontes/index.html"> Executar o exercício 017b</a><br/></li>
-<li><a href="https://marcelocesar-1964.github.io/html-css-2/exercicios/ex018a-fontes-externas/index.html"> Executar o exercício 018a</a><br/></li>
+<li><a href="https://marcelocesar-1964.github.io/html-css-2/exercicios/ex018a-Fontes-externas/index.html"> Executar o exercício 018a</a><br/></li>
 <li><a href="https://marcelocesar-1964.github.io/html-css-2/exercicios/ex018b-fontes-externas/index.html"> Executar o exercício 018b</a><br/></li>
 <li><a href="https://marcelocesar-1964.github.io/html-css-2/exercicios/ex019-seletores/index.html"> Executar o exercício 019</a><br/></li>
 <li><a href="https://marcelocesar-1964.github.io/html-css-2/exercicios/ex020b-hover/index.html"> Executar o exercício 020b</a><br/></li>
