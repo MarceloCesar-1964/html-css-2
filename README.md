@@ -2,13 +2,7 @@
 Curso de HTML5 e CSS3 do Cursoemvideo
 
 Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!<br/>
-<style>
-  ul {
-     list-style-type: '\2714\00A0\00a0';
-    list-style-position: inside;
-    columns: 2;
-  }
-</style>
+
 <ul>
 <li><a href="https://marcelocesar-1964.github.io/html-css-2/exercicios/ex001-Olá-mundo/index.html">Executar o exercício 001</a><br/> </li> 
 <li><a href="https://marcelocesar-1964.github.io/html-css-2/exercicios/ex002-parágrafos/index.html"> Executar o exercício 002</a><br/></li>
