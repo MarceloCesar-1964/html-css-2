@@ -33,6 +33,18 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!<br/>
 <li><a href="https://marcelocesar-1964.github.io/html-css-2/exercicios/ex021d-caixas/index.html"> Executar o exercício 021d</a><br/></li>
 <li><a href="https://marcelocesar-1964.github.io/html-css-2/desafios/ds001-mensagens/index.html"> Executar o Desafio 001</a><br/></li>
 <li><a href="https://marcelocesar-1964.github.io/html-css-2/desafios/ds002-imagens/index.html"> Executar o Desafio 002</a><br/></li>
+<li><a href="https://marcelocesar-1964.github.io/html-css-2/desafios/ds003-mapa-mundi/index.html"> Executar o Desafio 003</a><br/></li>
+<li><a href="https://marcelocesar-1964.github.io/html-css-2/desafios/ds004-emoji/index.html"> Executar o Desafio 004</a><br/></li>
+<li><a href="https://marcelocesar-1964.github.io/html-css-2/desafios/ds005-perfil social/index.html"> Executar o Desafio 005</a><br/></li>
+<li><a href="https://marcelocesar-1964.github.io/html-css-2/desafios/ds006-desafio das tags/index.html"> Executar o Desafio 006</a><br/></li>
+<li><a href="https://marcelocesar-1964.github.io/html-css-2/desafios/ds007-imagem flexivel/index.html"> Executar o Desafio 007</a><br/></li>
+<li><a href="https://marcelocesar-1964.github.io/html-css-2/desafios/ds009-videos favoritos/index.html"> Executar o Desafio 009</a><br/></li>
+<li><a href="https://marcelocesar-1964.github.io/html-css-2/desafios/ds010-site-irina/index.html"> Executar o Desafio 010</a><br/></li>
+<li><a href="https://marcelocesar-1964.github.io/html-css-2/desafios/ds010-2-site-irina/index.html"> 
+Executar o Desafio 010-2</a><br/></li>
+<li><a href="https://marcelocesar-1964.github.io/html-css-2/desafios/ds010-3-responsivo/index.html"> Executar o Desafio 010-3</a><br/></li>
+
+
 
 
 
