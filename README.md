@@ -1,7 +1,14 @@
 # html-css-2
 Curso de HTML5 e CSS3 do Cursoemvideo
-
+<style>
 Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!<br/>
+  ul {
+     list-style-type: '\2714\00A0\00a0';
+    list-style-position: inside;
+    columns: 3;
+  }
+</style>
+<ul>
 <li><a href="https://marcelocesar-1964.github.io/html-css-2/exercicios/ex001-Olá-mundo/index.html">Executar o exercício 001</a><br/> </li> 
 <li><a href="https://marcelocesar-1964.github.io/html-css-2/exercicios/ex002-parágrafos/index.html"> Executar o exercício 002</a><br/></li>
 <li><a href="https://marcelocesar-1964.github.io/html-css-2/exercicios/ex003-imagens/index.html"> Executar o exercício 003</a><br/></li>
@@ -41,7 +48,7 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!<br/>
 <li><a href="https://marcelocesar-1964.github.io/html-css-2/desafios/ds009-videos favoritos/index.html"> Executar o Desafio 009</a><br/></li>
 <li><a href="https://marcelocesar-1964.github.io/html-css-2/desafios/ds010-site-irina/index.html"> Executar o Desafio 010</a><br/></li>
 <li><a href="https://marcelocesar-1964.github.io/html-css-2/desafios/ds010-2-site-irina/index.html">Executar o Desafio 010-2</a><br/></li>
-<li><a href="https://marcelocesar-1964.github.io/html-css-2/desafios/ds010-3-responsivo/index.html"> Executar o Desafio 010-3</a><br/></li>
+<li><a href="https://marcelocesar-1964.github.io/html-css-2/desafios/ds010-3-responsivo/index.html"> Executar o Desafio 010-3</a><br/></li></ul>
 
 
 
