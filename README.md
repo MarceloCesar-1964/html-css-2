@@ -1,7 +1,8 @@
 # html-css-2
 Curso de HTML5 e CSS3 do Cursoemvideo
-<style>
+
 Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!<br/>
+<style>
   ul {
      list-style-type: '\2714\00A0\00a0';
     list-style-position: inside;
