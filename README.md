@@ -13,7 +13,7 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!<br/>
 <li><a href="https://marcelocesar-1964.github.io/html-css-2/exercicios/ex009-listas/index.html"> Executar o exercício 009</a><br/></li>
 <li><a href="https://marcelocesar-1964.github.io/html-css-2/exercicios/ex010-links/index.html"> Executar o exercício 010</a><br/></li>
 <li><a href="https://marcelocesar-1964.github.io/html-css-2/exercicios/ex011-imagens-dinâmicas/index.html"> Executar o exercício 011</a><br/></li>
-<li><a href="https://marcelocesar-1964.github.io/html-css-2/exercicios/ex012-formatos-de-video/index.html"> Executar o exercício 012</a><br/></li>
+<li><a href="https://marcelocesar-1964.github.io/html-css-2/exercicios/ex012-formatos-de-video/mídia/index.html"> Executar o exercício 012</a><br/></li>
 <li><a href="https://marcelocesar-1964.github.io/html-css-2/exercicios/ex013-estilos-inline/index.html"> Executar o exercício 013</a><br/></li>
 <li><a href="https://marcelocesar-1964.github.io/html-css-2/exercicios/ex014-estilos-internos/index.html"> Executar o exercício 014</a><br/></li>
 <li><a href="https://marcelocesar-1964.github.io/html-css-2/exercicios/ex015-estilos-externos/index.html"> Executar o exercício 015</a><br/></li>
