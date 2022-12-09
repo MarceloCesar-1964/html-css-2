@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desafio-Felipe-5</title>
+    <link rel="stylesheet" href="style.css"> 
+</head>
+<body>
+<main>
+<header>
+<h1>NativeBase </h1>
+<h2>Startup</h2>
+<div class="logo1"><img src="imagens-5/logo-1.png" alt="imagem"></div>
+<div class="logo2"><img src="imagens-5/logo-2.png" alt="imagem"></div>
+<div class="borda"><img src="imagens-5/borda" alt="imagem"></div> 
+<div class="mais"><img src="imagens-5/startup-(+)" alt="imagem"></div>
+</header>
+  
+<aside>
+<h1>Sign up to continue!</h1>
+        
+<section class="sec-form">
+<form class="app_form">
+<fieldset class="email">
+<legend class="legend-border">Email</legend>
+<div class="form-group">
+<input type="text" name="name">
+</div>
+</fieldset>
+<form>
+<fieldset class="password">
+<legend class="legend-border">Password</legend>
+<div class="form-group">
+<input type="password" class="senha2">
+<img src="imagens-5/visibility-off.png" class="btn2">
+</div>
+</fieldset>
+<fieldset class="confirmp">
+<legend class="legend-border">Confirm Password</legend>
+<div class="form-group">
+<input type="confirmp" class="senha3">
+<img src="imagens-5/visibility-off.png" class="btn3">
+</div>                
+</fieldset>   
+<li>
+<div class="caixa">
+<p><input type="checkbox"> &ensp;&ensp; &ensp; &ensp;I accept the <strong>Terms of Use</strong> & <strong>Privacy Policy.</strong></p><br/>
+</div>
+</li>           
+<nav>
+<a href="#">Sign up</a>  
+</nav> 
+<div class="or">
+<p>or</p> 
+</div>             
+</form>
+</section>
+</aside>
+
+<div class=" face">
+    <p><a href="https://www.facebook.com." target="self"><img src="imagens-5/facebook3.png" alt="face"></p>
+</div> 
+<div class="google">
+    <p><a href="https://www.google.com.br" target="self"><img src="imagens-5/google.png" alt="google"></a></p>
+</div>
+<div class="sign">
+<p>Already have an account? <a href="#"><strong>Sign in</strong></a>
+</div>
+</main>
+<script>
+const senha2 = document.querySelector('.senha2')
+const btn2 = document.querySelector('.btn2')
+const senha3 = document.querySelector('.senha3')
+const btn3 = document.querySelector('.btn3')
+    
+btn2.onclick = () =>
+{
+if (senha2.type === 'password') 
+{
+senha2.type = 'text'
+btn2.src = 'imagens-5/visibility-off.png'
+}
+else
+{
+senha2.type = 'password'
+btn2.src = 'imagens-5/visibility-on.png'
+}        
+}
+
+btn3.onclick = () =>
+{
+if (senha3.type === 'password') 
+{
+senha3.type = 'text'
+btn3.src = 'imagens-5/visibility-off.png'
+}
+else
+{
+senha3.type = 'password'
+btn3.src = 'imagens-5/visibility-on.png'
+}        
+}
+</script>   
+</body>
+</html>

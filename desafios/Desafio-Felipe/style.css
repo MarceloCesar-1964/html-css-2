@@ -1,0 +1,251 @@
+@charset "UTF-8";
+@font-face {
+    font-family: 'sfpro';
+    src: url(fontes-5/SFProDisplay-Regular.ttf) format('opentype');
+    font-weight: normal;
+}
+@font-face {
+    font-family: 'sfprobold';
+    src: url(fontes-5/SFProText-Bold-1.ttf) format('opentype');
+    font-weight: bold;
+}
+
+* {
+    font-family: sfpro;
+}
+
+body {
+    position: relative;
+    width: 1440px;
+    height: 900px;
+    background-color: #1f2937;
+    opacity: 100%;
+    min-width: 300px;
+    max-width: 1440px;
+    margin: auto;
+    
+
+}
+
+form .caixa input {
+	width: 20px;
+	height: 20px;		
+	border: solid 2px #4c1d95;
+    position: absolute;
+    top: 3px;
+}
+
+.btn2 {
+    top: 0px;
+    width: 40px;
+    height: 40px;  
+    right: 0px;
+    position: absolute;
+    margin-top: -4px;
+}
+
+.btn3 {
+    top: 0px;
+    width: 40px;
+    height: 40px;  
+    right: 0px;
+    position: absolute;
+    margin-top: -4px;
+}
+
+.caixa p {
+    position: absolute;
+    font-family: sfpro;
+    font-size: 14px;
+    color: #1f2937;
+    top: 296px;
+}
+
+body > main {   
+    position: absolute;
+    width: 1016px;
+    height: 556px;
+    top: 172px;
+    left: 212px;
+    border-radius: 12px;
+    background-color: #ffffff;
+}
+
+body > main > aside  {
+    position: absolute;    
+    padding: 0;
+    width: 442px;
+    height: 365px;
+    left: 540px;
+}
+
+form li {
+    list-style: none;
+}
+
+main > aside h1 {
+    position: absolute;   
+    left: 0px;
+    top: 0px;
+    font-family:sfpro;
+    font-weight: 700;
+    font-size: 24px;    
+    color: #1f2937;
+}
+
+main > aside input {
+    position: absolute;
+    width: 400px;
+    height: 38px;
+    border: none;
+    outline: 1px ; 
+    margin-top: -8px;
+    color: #1f2937;
+}
+
+main > aside .email {
+    position: absolute;
+    top: 66px;
+    width: 412px;
+    height: 42px;
+    border-radius: 4px;
+}
+
+main > aside .password {
+    position: absolute;
+    top: 132px;
+    width: 412px;
+    height: 42px;
+    border-radius: 4px;
+}
+
+main > aside .confirmp {
+    position: absolute;
+    top: 198px;
+    width: 412px;
+    height: 42px;
+    border-radius: 4px;   
+}
+
+body > main > header {
+    width: 508px;
+    height: 556px;
+    border-radius: 12px 0px 0px 12px;    
+    position: absolute;
+    background-color: #4c1d95 ;
+    left: 0px;
+    top: 0px;
+    border: solid;
+    border: none;
+}
+
+body > main > header h1 {
+    position: absolute;
+    left: 141.41px;
+    top: 227.4px;
+    letter-spacing: 2px; 
+    font-family: sfpro;
+    color: #ffffff;
+    height: 22.12px; 
+    font-size: 32px;  
+}
+
+body > main > header h2 {
+    position: absolute;
+    left: 337.49px;
+    top: 235.4px;
+    color: #ffffff;
+    font-family: sfpro;
+    letter-spacing: 2px;
+    height: 16.37px;
+}
+
+header .borda {
+    position: absolute;
+    left: 328.11px;
+    top: 250.6px;
+}
+
+header .logo1 {
+    position: absolute;
+    top: 261.06px;
+    left: 81.49px;
+}
+
+header .mais {
+    position: absolute;
+    width:11.69px;
+    height: 10 .38px;
+    top: 262px;
+    left: 424.77px;
+}
+
+header .logo2 {
+    position: absolute;
+    top: 238px;
+    left: 68px;
+    width: 58.15px;
+    height: 64px;
+ }
+
+ nav a {
+    position: absolute;
+    left: 0px;
+    font-size: 24px;
+    top: 353px;
+    text-decoration: none;
+    width: 444px;
+    height: 40px;
+    border: solid 1px;
+    text-align: center;
+    font-family: sfpro;
+    padding-top:10px;
+    background-color: #4c1d95;
+    color: #ffffff;
+    border-radius: 4px;
+ }
+
+ .face {
+    position: absolute;
+    left: 730px;
+    top: 443.15px;
+ }
+ 
+ .google {
+    position: absolute;
+    left: 770px;
+    top: 443.15px;
+ }
+ .or {
+    position: absolute;
+    top: 404px;
+    left: 215px;
+    color: #9ca3af;
+ }
+ 
+ .sign  {
+    top: 503px;
+    left: 655px;
+    position: absolute;
+    color: #6b7280;
+    font-size: 14px;
+ }
+
+ .sign a{
+    text-decoration: none;
+    letter-spacing: 1px;
+ }
+
+ .password img {
+    opacity: 50%;
+ }
+
+ .confirmp img {
+    opacity: 50%;
+ }
+
+    
+
+
+  
+
